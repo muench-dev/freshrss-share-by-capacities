@@ -1,0 +1,8 @@
+{
+	"name": "Share By Capacities",
+	"author": "cmuench",
+	"description": "Lets you share links as Capacities Weblink",
+	"version": "0.3.0",
+	"entrypoint": "ShareByCapacities",
+	"type": "user"
+}
